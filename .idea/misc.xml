@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_accidentes_automovilisticos.xml" value="0.25271739130434784" />
+        <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_incendios.xml" value="0.25271739130434784" />
+        <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_inundaciones.xml" value="0.3625" />
+        <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_main.xml" value="0.3625" />
         <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_main2.xml" value="0.18541666666666667" />
+        <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/activity_sismos.xml" value="0.25271739130434784" />
         <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/general.xml" value="0.3625" />
         <entry key="..\:/DocumentosAsus/Escuela/Profe/S7/Ciberseguridad/REPOProject/ProyectoAplicacion/app/src/main/res/layout/renglon_noticia.xml" value="0.3625" />
         <entry key="..\:/Users/cronn/Desktop/android/Proyecto/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />

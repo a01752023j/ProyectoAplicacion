@@ -1,4 +1,4 @@
-package mx.itesm.ajrv.proyecto
+package mx.itesm.ajrv.proyecto.general
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
