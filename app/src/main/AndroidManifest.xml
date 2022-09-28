@@ -31,6 +31,7 @@
         <activity
             android:name=".inundaciones.Inundaciones"
             android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -43,6 +44,10 @@
         <activity
             android:name=".general.general"
             android:exported="true" />
+        <activity android:name='.ajustes'
+            android:exported="true" />
+
+
     </application>
 
 </manifest>

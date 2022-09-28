@@ -65,6 +65,11 @@ class MainActivity : AppCompatActivity() {
             val intOtros = Intent(this, otros::class.java)
             startActivity(intOtros)
         }
+        binding.btnCategorias.setOnClickListener{
+            val intCategorias = Intent(this, MainActivity ::class.java)
+            startActivity(intCategorias)
+        }
+
 
 
 
