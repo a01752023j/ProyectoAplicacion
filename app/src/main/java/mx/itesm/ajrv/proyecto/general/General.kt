@@ -1,4 +1,4 @@
-package mx.itesm.ajrv.proyecto
+package mx.itesm.ajrv.proyecto.general
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -11,8 +11,8 @@ class general : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         //setContentView(R.layout.activity_main)
         binding = GeneralBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        
-    }
+}
 
 }
