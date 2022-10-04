@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="mx.itesm.ajrv.proyecto">
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -14,22 +15,22 @@
         android:theme="@style/Theme.Proyecto"
         tools:targetApi="31">
         <activity
-            android:name=".trafico.trafico"
+            android:name=".view.trafico"
             android:exported="false" />
         <activity
-            android:name=".sismos.sismos"
+            android:name=".view.sismos"
             android:exported="false" />
         <activity
-            android:name=".otros.otros"
+            android:name=".view.otros"
             android:exported="false" />
         <activity
-            android:name=".incendios.incendios"
+            android:name=".view.incendios"
             android:exported="false" />
         <activity
-            android:name=".accidentes.accidentesAutomovilisticos"
+            android:name=".view.accidentesAutomovilisticos"
             android:exported="false" />
         <activity
-            android:name=".inundaciones.Inundaciones"
+            android:name=".view.Inundaciones"
             android:exported="false" />
 
         <activity
@@ -44,7 +45,7 @@
         <activity
             android:name=".general.general"
             android:exported="true" />
-        <activity android:name='.ajustes'
+        <activity android:name='.view.ajustes'
             android:exported="true" />
 
 

@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/activity_incendios.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/activity_inundaciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/activity_otros.xml" value="0.2351851851851852" />
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/activity_sismos.xml" value="0.2351851851851852" />
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/general.xml" value="0.11302083333333333" />
+        <entry key="..\:/ProyectoAplicacion-master/app/src/main/res/layout/renglon_noticia.xml" value="0.2" />
         <entry key="..\:/Users/cronn/Desktop/android/Proyecto/app/src/main/res/layout/activity_accidentes_automovilisticos.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/cronn/Desktop/android/Proyecto/app/src/main/res/layout/activity_incendios.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/cronn/Desktop/android/Proyecto/app/src/main/res/layout/activity_inundaciones.xml" value="0.22826086956521738" />
